@@ -1,6 +1,4 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  id: 1
-  name: "Learn Vim"
-  user_id: 1
+  activity_id: 1
